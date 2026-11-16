@@ -1,7 +1,6 @@
 --[[
-Encrypted by Hackers House
-Tool : https://hackershouse.tech/online-lua-obfuscator-free-unlimited
-Version: 1.1.0
+Made by SYNTRØ ツ
+SYNTRØ AUTO PIANO
 ]]
 _G["UElw4M810A"]=function(src)
   local box={__src=src}
